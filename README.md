@@ -1,0 +1,1 @@
+[Part of The Odin Project HTML Fundamentals course.](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes)
